@@ -79,7 +79,7 @@ body {
 }
 
 .social-links {
-  display: flex;
+  display: round;
   gap: 15px;
 }
 
